@@ -28,7 +28,7 @@ Cursei Jornalismo, mas agora estou **apaixonado pelo mundo da tecnologia** e em 
 Atualmente, estou matriculado na Alura e focado no **Desenvolvimento Web**, estudando **Python**, **Django**, entre outras tecnologias necessárias para esta área. Também estou conciliando o aprendizado de outras ferramentas necessárias para o dia a dia do desenvolvedor, como versionamento de código, banco de dados, testes automatizados, entre outras.
 
 ## English Version
-## Hi, I'm **Caio Alves**, future Python developer!
+## Hi, I'm Caio Alves, a future Python developer!
 
 - 📌 Campinas (SP) - Brazil
 - 👨‍🎓 Alura Student
