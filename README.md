@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-## Olá, eu sou Caio Alves, futuro desenvolvedor Python!
+## Olá, eu sou **Caio Alves**, futuro desenvolvedor Python!
 
 - 📌 Campinas (SP) - Brasil
 - 👨‍🎓 Aluno da Alura
@@ -22,7 +21,26 @@ Here are some ideas to get you started:
 - 🎓 Previsão de início da graduação em Ciência da Computação em 2023
 - 🎞️ Filme favorito: Triologia Batman
 - 🎥 Séries favoritas: Fringe, Person of Interest e Friends
-- 🎈 Integrante do RD
+- 🎈 Integrante do Reservatório de Dopamina
+
+Cursei Jornalismo, mas agora estou **apaixonado pelo mundo da tecnologia** e em processo de transição de carreira. Isso aconteceu por conta de um projeto pessoal em que desenvolvi um script para coletar dados de jogos de futebol. Passei simplesmente um final de semana inteiro e sabia que era essa sensação de engajamento que gostaria de ter em minha vida profissional.
+
+Atualmente, estou matriculado na Alura e focado no **Desenvolvimento Web**, estudando **Python**, **Django**, entre outras tecnologias necessárias para esta área. Também estou conciliando o aprendizado de outras ferramentas necessárias para o dia a dia do desenvolvedor, como versionamento de código, banco de dados, testes automatizados, entre outras.
+
+## English Version
+## Hi, I'm **Caio Alves**, future Python developer!
+
+- 📌 Campinas (SP) - Brazil
+- 👨‍🎓 Alura Student
+- 📚 Learning all about the Python ecosystem for Web Development
+- 🎓 Expected start of graduation in Computer Science in 2023
+- 🎞️ Favorite movie: Batman Triology
+- 🎥 Favorite TV series: Fringe, Person of Interest and Friends
+- 🎈 Member of the Dopamine Reservoir
+
+I studied Journalism, but now I'm **passionate about the world of technology** and in the process of career transition. This happened because of a personal project where I developed a script to collect data from football games. I just spent an entire weekend and knew that was the sense of engagement I wanted to have in my professional life.
+
+I am currently enrolled at Alura and focused on **Web Development**, studying **Python**, **Django**, among other technologies necessary for this area. I'm also reconciling the learning of other tools necessary for the daily life of the developer, such as code versioning, database, automated tests, among others.
 
 <div align="center">
   <a href="https://github.com/caioalves19">
