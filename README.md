@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 Cursei Jornalismo, mas agora estou **apaixonado pelo mundo da tecnologia** e em processo de transição de carreira. Isso aconteceu por conta de um projeto pessoal em que desenvolvi um script para coletar dados de jogos de futebol. Passei simplesmente um final de semana inteiro e sabia que era essa sensação de engajamento que gostaria de ter em minha vida profissional.
 
-Atualmente, estou matriculado no **curso.dev**, do Filipe Deschamps para melhorar meus conhecimento de programação e também de todas as outras ferramentas necessárias neste ambiente, como versionamento de código, banco de dados, testes, entre várias outras.
+Atualmente, além de estar cursando Ciência da Computação, estou matriculado no **curso.dev**, do Filipe Deschamps para melhorar meus conhecimento de programação e também de todas as outras ferramentas necessárias neste ambiente, como versionamento de código, banco de dados, testes, entre várias outras.
 
 <div align="center">
   <a href="https://github.com/caioalves19">
