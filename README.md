@@ -26,6 +26,7 @@ I'm an intern at John Deere, on the team that builds customizations and integrat
 ## Projetos · Projects
 
 **PT** · Meus projetos mais recentes estão em repositórios privados: coleta e tratamento de dados esportivos, apps pessoais de estudo e automação. Posso apresentá-los em conversa.
+
 **EN** · My most recent projects live in private repositories: sports-data collection, personal study apps and automation. Happy to walk through them in a conversation.
 
 ## Como penso · How I think
