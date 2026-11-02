@@ -1,47 +1,49 @@
-<!--
-**caioalves19/caioalves19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Caio Alves
 
-Here are some ideas to get you started:
+**PT** · Graduando em Ciência da Computação (UNIP Campinas, conclusão em dez/2026), estagiário na John Deere e ex-jornalista esportivo.
+**EN** · Computer Science student (UNIP Campinas, graduating Dec 2026), intern at John Deere and former sports journalist.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Campinas, SP, Brasil
 
-## Olá, eu sou **Caio Alves**, granduando em Ciência da Computação!
+---
 
-- 📌 Campinas (SP) - Brasil
-- 👨‍🎓 Aluno da Unip Campinas (formação em dezembro de 2026)
-- 🎞️ Filme favorito: Triologia Batman
-- 🎥 Séries favoritas: Fringe, Person of Interest, Suits, Mad Men, Friends e How I Met Your Mothes
-- :anger: Vasco da Gama
+## Sobre mim · About me
 
-Cursei Jornalismo, mas agora estou **apaixonado pelo mundo da tecnologia** e em processo de transição de carreira. Isso aconteceu por conta de um projeto pessoal em que desenvolvi um script para coletar dados de jogos de futebol. Passei simplesmente um final de semana inteiro e sabia que era essa sensação de engajamento que gostaria de ter em minha vida profissional.
+**PT**
+Trabalho como estagiário na John Deere, no time que desenvolve personalizações e integrações do Dynamics 365 Sales (C#, JavaScript e Python com GitHub Actions). Antes disso, fui redator do Futebol Interior por quase dez anos e estudei Jornalismo. A virada para a programação começou com um script que coletava dados de jogos de futebol, escrito num fim de semana para resolver um problema real do meu trabalho. Desde então, programo para resolver problemas concretos.
 
-Além de estar cursando Ciência da Computação, estou matriculado no **curso.dev**, do Filipe Deschamps para melhorar meus conhecimentos de programação e também de todas as outras ferramentas necessárias neste ambiente, como versionamento de código, banco de dados, testes, entre várias outras.
+**EN**
+I'm an intern at John Deere, on the team that builds customizations and integrations for Dynamics 365 Sales (C#, JavaScript and Python with GitHub Actions). Before that, I wrote for Futebol Interior, a São Paulo football news site, for nearly ten years and studied Journalism. The move into programming began with a script that collected football match data, written over a weekend to solve a real problem at work. Since then I write code to solve concrete problems.
 
-<div align="center">
-  <a href="https://github.com/caioalves19">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caioalves19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioalves19&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Caio-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Caio-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:caioluizalves1995@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caioalvesdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://caioalvesdev.wordpress.com/" target="_blank"><img width=30 src="https://icons.iconarchive.com/icons/sicons/basic-round-social/256/wordpress-icon.png" target="_blank"></a>
-</div>
+## Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-512BD4?logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Dynamics 365](https://img.shields.io/badge/-Dynamics_365-002050?logo=dynamics365&logoColor=white)
+
+## Projetos · Projects
+
+**PT** · Meus projetos mais recentes estão em repositórios privados: coleta e tratamento de dados esportivos, apps pessoais de estudo e automação. Posso apresentá-los em conversa.
+**EN** · My most recent projects live in private repositories: sports-data collection, personal study apps and automation. Happy to walk through them in a conversation.
+
+## Como penso · How I think
+
+**PT**
+- Tenho cada vez mais interesse por IA, principalmente como ferramenta para simplificar o fluxo de trabalho.
+- Prefiro fugir do hype: uso a tecnologia quando ela resolve um problema real e deixo de lado quando só adiciona complexidade.
+- Gosto da história da Ciência da Computação e da tecnologia em geral. Entender de onde as ideias vieram ajuda a separar o que é novo do que é só embalagem nova.
+
+**EN**
+- I'm increasingly interested in AI, mainly as a tool to simplify workflows.
+- I try to stay away from the hype: I use a technology when it solves a real problem and skip it when it only adds complexity.
+- I enjoy the history of Computer Science and technology in general. Knowing where ideas came from helps tell what is new from what is just new packaging.
+
+## Fora do código · Beyond code
+
+🎬 Trilogia do Batman · 📺 Fringe, Person of Interest, Suits, Mad Men, Friends, How I Met Your Mother · ⚫⚪ Vasco da Gama
+
+## Contato · Contact
+
+[LinkedIn](https://www.linkedin.com/in/caioalvesdev)
